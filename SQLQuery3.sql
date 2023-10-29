@@ -1,0 +1,1 @@
+﻿SELECT BookId = @BookId, FROM Book b
